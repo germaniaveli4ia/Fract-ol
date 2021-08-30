@@ -5,6 +5,6 @@ This project is meant to create graphically beautiful fractals.
 
 Run *make*. An executable will compile.
 
-Run *./fdf* to see the usage. 
+Run *./fractol* to see the usage. 
 
 Press *Tab* while the programm is running to see the menu.
